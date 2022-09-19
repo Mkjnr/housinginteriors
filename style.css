@@ -1,0 +1,187 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.nav-link{
+    color: white;
+    font-size: 18px;
+    font-family: Alegreya;
+}
+
+a{
+    padding: 10px;
+}
+
+
+.navbar-brand{
+    color: white;
+}
+
+.parent-img{
+    background-image:linear-gradient(rgba(17,19,26,0.52),rgba(17,19,26,0.52)), url(./image/pexels-mark-mccammon-2724748.jpg);
+    height: 500px;
+    
+}
+
+
+.navbar-toggler{
+    border-color: black;
+}
+
+.feature-box{
+    padding-top: 7%;
+    padding-bottom: 7%;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: Alegreya;
+}
+
+
+.fa-heart{
+    color: #FC4A1A;
+}
+
+.fa-thumbs-up{
+    color: #FC4A1A;
+}
+
+.fa-house-chimney{
+    color: #FC4A1A;
+}
+
+h1{
+    color: white;
+    font-size: 55px;
+    font-family: Nanum Myeongjo;
+}
+
+.container{
+    align-items: center;
+    padding: 8% 18%;
+}
+
+.buttons{
+    margin-top: 40px;
+}
+
+.btn2:hover{
+    background-color: #f0dfd5;
+}
+
+.second-container{
+    background-color: #4ABDAC;
+}
+
+#About{
+    background-color: aqua;
+}
+
+.About-desc{
+    align-items: center;
+    text-align: center;
+    padding: 80px;
+    color: white;
+    /* background-color: #4ABDAC; */
+    
+    
+}
+
+h2{
+    font-family: Nanum Myeongjo;
+    font-size: 70px;
+}
+
+.p-about{
+    font-family: Alegreya;
+}
+
+.gallery-desc{
+    text-align: center;
+    font-family: cinzel;
+    font-size: 40px;
+}
+
+.team-img{
+    width: 300px;
+    height: 300px;
+}
+
+.team-info{
+    align-items: center;
+    padding: 4% 3%;
+}
+
+.team-header{
+    text-align: center;
+    font-size: 40px;
+    font-family: cinzel;
+}
+
+.team-paragraph{
+    text-align: center;
+    font-family: Nanum Myeongjo;
+    font-size: 20px;
+}
+
+.team-desc{
+    text-align: center;
+    font-family: Alegreya;
+    font-size: 20px;
+    margin: 7px;
+}
+
+.courasel-img{
+    height: 700px;
+    width: 1500px;
+}
+
+.container-4{
+    background-color: #4abdace5;
+}
+
+.contact-desc{
+    text-align: center;
+    color: white;
+    padding: 2% 6%;
+    font-family: cinzel;
+    font-size: 40px;
+    
+    
+}
+
+.inputs{
+    padding: 0 40px;
+    padding: 7px 200px;
+    margin: 1px;
+    /* border-color: white; */
+    border: solid rgba(0, 0, 0, 0);
+    
+}
+
+.container-inputs{
+    padding-left: 500px;
+    border: solid rgba(0, 0, 0, 0);
+}
+
+img{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.about-img{
+    background-position: center;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+}
+
+.gallery img:hover{
+    opacity: 0.8;
+    cursor: grab;
+}
+
+
+
